@@ -1,5 +1,5 @@
 # UGent-hpc-introduction
-This repository is not meant as a tutorial itself but to help you navigate the journey of using a hpc cluster. Below we described the nessescariry steps to work with the hpc cluster for UGent and link to the university pages with relevant information. If you are curious what a hpc cluster is and whetehr it would be useful for your research vist https://docs.hpc.ugent.be/Windows/introduction/
+This repository is not meant as a tutorial itself but to help you navigate the journey of using a hpc cluster. Below we described the necessary steps to work with the hpc cluster for UGent and link to the university pages with relevant information. If you are curious what a hpc cluster is and whether it would be useful for your research vist https://docs.hpc.ugent.be/Windows/introduction/
 
 ## Create a vsc account
 The first step to working with the hpc cluster is through a vsc account (https://docs.hpc.ugent.be/Windows/account/), you can also generate a public and private key-pair to ensure safe access to the cluster but this is not required if you exclusively use the web-interface. 
